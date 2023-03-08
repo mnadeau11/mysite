@@ -1,7 +1,25 @@
 ---
-title: "mysite"
+title: "Michael Nadeau"
+about:
+  id: intro-heading
+  template: trestles
+  image: images/headshot.jpg
+  links:
+    - icon: github
+      href: https://github.com/mnadeau11
 ---
 
-This is a Quarto website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+:::
+
+Hi, my name is Michael Nadeau.
+I am currently attending Macalester College and I will be graduating in the fall of 2023. I am a student athlete majoring in Data Science with the goal of working in the sports industry after graduating. 
+
+## Education
+
+Macalester College | St. Paul MN <br>
+B.A. in Data Science | Sept 2019 - December 2023
+
+:::
+
+
